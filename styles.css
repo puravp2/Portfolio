@@ -27,6 +27,10 @@ li a {
 li a:hover {
   background-color: #111;
 }
+#picture {
+	float: left;
+	width: 300px;
+	margin:0px .8em 0px 0px;}
 </style>
 </head>
 <body>
