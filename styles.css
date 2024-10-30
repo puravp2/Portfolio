@@ -9,15 +9,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: red 
-  animation-name: example;
-  animation-duration: 90s;
-}
-example {
-  from {background-color: red , orange , black , white , blue  , red , green , yellow,red , orange , black , white , blue  , red , green , yellow ,brown , blue , green  red ,red ,red , orange , black , white , blue  , red , green , yellow ,red , orange , black , white , blue  , red , green , yellow,red , orange , black , white , blue  , red , green , yellow ,brown , blue , green  red ,red ,red , orange , black , white , blue  , red , green , yellow , red , orange , black , white , blue  , red , green , yellow,red , orange , black , white , blue  , red , green , yellow ,brown , blue , green  red ,red ,red , orange , black , white , blue  , red , green , yellow;}
-  to {background-color: black;}
-}
-
+  background-color:background-image: linear-gradient(blue , red , black , orange);
 }
 
 li {
