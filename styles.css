@@ -56,6 +56,14 @@ li a:hover {
 .p {
   font-size: 24px;
 }
+#bio{
+	background-color: #0377fc;
+	float: left;
+	width: 300px;
+	padding:1em;
+	margin:0px 1em 1em 0px;
+
+}
 </style>
 </head>
 <body>
