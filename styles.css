@@ -9,7 +9,13 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-image: linear-gradient(to bottom right, black, blue, purple , red);	
+  animation-name: example;
+  animation-duration: 90s;
+}
+example {
+  from {background-color: red , orange , black , white , blue  , red , green , yellow,red , orange , black , white , blue  , red , green , yellow ,brown , blue , green  red ,red ,red , orange , black , white , blue  , red , green , yellow ,red , orange , black , white , blue  , red , green , yellow,red , orange , black , white , blue  , red , green , yellow ,brown , blue , green  red ,red ,red , orange , black , white , blue  , red , green , yellow , red , orange , black , white , blue  , red , green , yellow,red , orange , black , white , blue  , red , green , yellow ,brown , blue , green  red ,red ,red , orange , black , white , blue  , red , green , yellow;}
+  to {background-color: black;}
+}
 
 }
 
