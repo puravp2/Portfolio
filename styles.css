@@ -9,7 +9,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-image: linear-gradient(to right, blue , red , black);
+  background-image: linear-gradient(to right, blue , black);
 }
 
 li {
