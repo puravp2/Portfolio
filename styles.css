@@ -64,6 +64,15 @@ li a:hover {
 	margin:0px 1em 1em 0px;
 
 }
+.right {
+  position: absolute;
+  right: 0px;
+  width: 300px;
+  border: 5px solid #73AD21;
+  padding: 10px;
+  height: 300px;
+  
+}
 
 </style>
 </head>
